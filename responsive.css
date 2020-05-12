@@ -3,6 +3,15 @@
     width:50%;
     margin-bottom:50px;
   }
+  
+  .top-wrapper h1{
+    font-size:32px;
+  }
+
+  /* Tambahkan CSS untuk tag <h2> didalam heading */
+  .top-wrapper h2{
+    font-size:20px;
+  }
 }
 
 @media (max-width:670px) {
@@ -28,6 +37,15 @@
     padding-top:130px;
   }
   
+  .top-wrapper h1{
+    font-size:24px;
+    line-height:36px;
+}
+    .top-wrapper p{
+    font-size:14px;
+    line-height:20px;
+    
+  }
   /* Ubah text-align property milik <footer> */
   
 }
