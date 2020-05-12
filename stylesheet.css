@@ -125,10 +125,14 @@ header {
 }
 
 .lesson-wrapper {
-  height: 500px;
+  
   padding-bottom: 30px;
   background-color: #f7f7f7;
   text-align: center;
+}
+
+.clear{
+  clear:left;
 }
 
 .heading {
