@@ -14,7 +14,19 @@
     text-align:center;
   }
   /* Ubah width milik lesson ke 100% */
+   .btn{
+    width:100%;
+  }
+  /* Gantikan margin-bottom facebook ke 10px */
   
+  .facebook{
+    margin-bottom:10px;
+  }
+  /* Tambahkan CSS untuk top-wrapper */
+  .top-wrapper{
+    text-align:left;
+    padding-top:130px;
+  }
   
   /* Ubah text-align property milik <footer> */
   
