@@ -49,3 +49,11 @@
   /* Ubah text-align property milik <footer> */
   
 }
+
+ .header-right{
+    display:none;
+  }
+  
+  .menu-icon{
+    display:block;
+  }
