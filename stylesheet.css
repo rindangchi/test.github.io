@@ -178,8 +178,9 @@ header {
 }
 
 footer img {
-  width: 125px;
-  widht : 10%
+  width: 124px;
+  widht : 10%;
+    height:10%;
 }
 
 footer p {
