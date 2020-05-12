@@ -21,6 +21,8 @@ a {
   text-align: left;
   animation-name: example;
   animation-duration: 10s;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
 }
 
 @keyframes example {
