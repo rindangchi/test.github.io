@@ -143,6 +143,8 @@ header {
   top: 90px;
   width: 100%;
   color: white;
+  font-family: "Helvetica";
+  font-size: 24px;
 }
 
 .txt-contents {
