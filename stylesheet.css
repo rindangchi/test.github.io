@@ -249,3 +249,7 @@ textarea{
   position:relative;
   top:7px;
 
+  *{
+  box-sizing:border-box;
+  
+}
