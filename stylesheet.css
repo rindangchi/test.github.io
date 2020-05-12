@@ -19,7 +19,16 @@ a {
   background-size: cover;
   color: white;
   text-align: left;
+  animation-name: example;
+  animation-duration: 4s;
 }
+
+@keyframes example {
+  0%   {background-image: url(https://img.freepik.com/free-vector/abstract-technology-particle-background_52683-25766.jpg?size=626&ext=jpg);}
+  25%  {background-image: url(https://image.freepik.com/free-vector/futuristic-technology-background-with-honeycombs_23-2148481277.jpg);}
+  
+}
+
 
 .top-wrapper h1 {
   opacity: 0.7;
