@@ -113,14 +113,14 @@ header {
 }
 
 .lesson-wrapper {
-  height: 300px;
+  height: 350px;
   padding-bottom: 30px;
   background-color: #f7f7f7;
   text-align: center;
 }
 
 .heading {
-  padding-top: 60px;
+  padding-top: 30px;
   padding-bottom: 30px;
   color: #5f5d60;
 }
